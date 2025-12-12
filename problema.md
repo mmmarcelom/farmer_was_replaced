@@ -1,4 +1,6 @@
-# Problema atual
+# Jornada até agora
+
+## Em busca das variáveis
 
 Nosso próximo objetivo seria desbloquear a atribuição de variáveis (35 cenouras).
 
@@ -11,3 +13,13 @@ O drone sempre volta para primeira linha quando ultrapassa a última linha ou pa
 Minha ideia é um loop simples, chegou no final, move para a direita, chegou no final novamente, volta para o começo.
 
 <img width="1252" height="858" alt="image" src="https://github.com/user-attachments/assets/bb8927a7-468c-41df-bcba-324921eabc08" />
+
+## Melhorando a rota
+
+Variáveis desbloqueadas \o/
+
+Gostaria de não perder tempo com o drone descendo para só depois recomeçar
+<img width="1332" height="891" alt="image" src="https://github.com/user-attachments/assets/817bc098-8c84-4036-8283-f43111994ae1" />
+
+Quero que ele suba colhendo e depois desça colhendo:
+<img width="1332" height="891" alt="image" src="https://github.com/user-attachments/assets/213a1c4c-528c-4342-a001-d84205ebf599" />
