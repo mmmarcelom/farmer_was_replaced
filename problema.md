@@ -23,3 +23,9 @@ Gostaria de não perder tempo com o drone descendo para só depois recomeçar
 
 Quero que ele suba colhendo e depois desça colhendo:
 <img width="1332" height="891" alt="image" src="https://github.com/user-attachments/assets/213a1c4c-528c-4342-a001-d84205ebf599" />
+
+## Funções e imports
+
+Rota aprimorada, mas o código ficou meio grande...
+
+Aproveitando que liberamos funções e imports, o objetivo agora é melhorar o código.
